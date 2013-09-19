@@ -1,0 +1,17 @@
+1.4.1
+  Svar: http://www.server.se/html/pages/bottom.html
+  
+1.4.2
+  Svar: ./pages/top.html
+  
+1.4.3
+  Svar: .../index.html
+  
+1.4.4
+  Svar: http://www.server.se/index.html
+  
+1.4.5
+  Svar: /bottom.html
+  
+1.4.6
+  Svar: /html/pages/top.html
