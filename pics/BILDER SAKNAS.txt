@@ -1,0 +1,1 @@
+Fråga om hur man bäst laddar upp bilder på Git.
